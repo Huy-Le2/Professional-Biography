@@ -1,5 +1,5 @@
 # Professional-Biography
-A professional biography for myself to my employers
+A professional biography for my employers
 
 # Huy Le
 
